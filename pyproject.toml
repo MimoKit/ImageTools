@@ -1,0 +1,9 @@
+[project]
+name = "imagetools-gscore"
+version = "1.0.0"
+description = "GsCore image tools plugin"
+dependencies = [
+    "Pillow>=10.0.0",
+    "httpx>=0.25.0",
+    "gradio-client>=1.0.0",
+]
